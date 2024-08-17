@@ -1,6 +1,6 @@
 # Support Vector Machine (SVM)
 
-This repository contains code for implementing Support Vector Machine (SVM) on a dataset of customer information for a social network ad. The code is written in Python and uses the scikit-learn library.
+This repository contains code for implementing Support Vector Machine (SVM) on a dataset of customer information for a social network ad. The code is written in Python & R and uses the scikit-learn library.
 
 ## Code Explanation
 
